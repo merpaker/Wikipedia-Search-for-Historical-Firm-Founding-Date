@@ -26,7 +26,7 @@ Company_name2
 Company_name3
 ```
 ### Output file
-The output file will be a utf-8 encoded .txt file called "WikipediaFoundingDates". You can initialize this file beforehand by creating a blank .txt file of this name. After the scrip runs, the updated file will have a semicolon-separated list that can be easily imported into other software for analysis.
+The output file will be a utf-8 encoded .txt file called "WikipediaFoundingDates". You can initialize this file beforehand by creating a blank .txt file of this name. After the script runs, the updated file will have a semicolon-separated list that can be easily imported into other software for analysis.
 
 ## How the script works
 
