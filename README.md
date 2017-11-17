@@ -162,7 +162,7 @@ Write the semicolon-separated string to the output file, and you're done!
 	wiki_output.write(company_output)
 ```
 
-### Understanding the output
+## Understanding the output
 
 The output is a semi-colon separated list. Each line represents one firm from the inputted CompanyList and contains seven semicolon-separated pieces of information about the firm.
 
